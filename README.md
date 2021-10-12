@@ -4,7 +4,6 @@ Beginner programmer 🌱
 
 Skills: C/ CPP / HTML / JAVA
 
-- 🔭 I’m currently working on  I’m currently working on Competitive programming 
 - 🌱 I’m currently learning  I’m currently learning Java 
 - 👯 I’m looking to collaborate on Github 
 - 😄 Pronouns: She/her 
